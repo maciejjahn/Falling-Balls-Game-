@@ -1,0 +1,18 @@
+C:\Users\user\Desktop\Programowanie komponentowe\Kolosy\2018-05-15\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\Programowanie komponentowe\Kolosy\2018-05-15\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Programowanie komponentowe\Kolosy\2018-05-15\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\Programowanie komponentowe\Kolosy\2018-05-15\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\Programowanie komponentowe\Kolosy\2018-05-15\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Programowanie komponentowe\Kolosy\2018-05-15\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\Programowanie komponentowe\Kolosy\2018-05-15\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\Programowanie komponentowe\Kolosy\2018-05-15\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\Programowanie komponentowe\Kolosy\2018-05-15\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\STUDIA\4 semestr\Programowanie komponentowe\powtórka\kolosy\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\STUDIA\4 semestr\Programowanie komponentowe\powtórka\kolosy\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\STUDIA\4 semestr\Programowanie komponentowe\powtórka\kolosy\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\STUDIA\4 semestr\Programowanie komponentowe\powtórka\kolosy\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\STUDIA\4 semestr\Programowanie komponentowe\powtórka\kolosy\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\STUDIA\4 semestr\Programowanie komponentowe\powtórka\kolosy\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\STUDIA\4 semestr\Programowanie komponentowe\powtórka\kolosy\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\STUDIA\4 semestr\Programowanie komponentowe\powtórka\kolosy\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\STUDIA\4 semestr\Programowanie komponentowe\powtórka\kolosy\Kuleczki\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
